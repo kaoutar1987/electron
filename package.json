@@ -1,0 +1,25 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaoutar1987/electron.git"
+  },
+  "author": "kaoutar habach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaoutar1987/electron/issues"
+  },
+  "homepage": "https://github.com/kaoutar1987/electron#readme",
+  "devDependencies": {
+    "electron": "^11.2.2"
+  },
+  "dependencies": {
+    "electron-reload": "^1.5.0"
+  }
+}
